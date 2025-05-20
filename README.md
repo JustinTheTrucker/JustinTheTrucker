@@ -54,7 +54,7 @@ Check out some of my favorite or most active work below 👇
 ## 🗂️ Projects I'm Working On
 
 - 🟢 **Chunk Survival** — High-stakes skyblock-like PvP game mode
-- 🟡 **Venomity** — A growing development team and tools brand
+- 🟡 **Venomity** — A Minecraft network that is coded from scratch
 - 🔵 **Simply Survival** — A grindy but chill SMP
 - 🟣 **Flappy Miner** — A mobile Unity game in development
 
