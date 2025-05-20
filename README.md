@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently working on **Minecraft server development** and custom **Discord bots**
-- 🌱 I’m expanding my skills in AI, Unity, and game design
+- 🌱 I’m expanding my skills in Java, Unity, and game design
 - 💼 I build plugins, bots, and tools with clean, scalable architecture
 - 🎮 Passionate about creating fun, grindy, and balanced multiplayer experiences
 
