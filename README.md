@@ -32,13 +32,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-Check out some of my favorite or most active work below 👇  
-➡️ *(Pin repos from your GitHub profile)*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
