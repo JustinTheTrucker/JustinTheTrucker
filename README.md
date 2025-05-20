@@ -1,48 +1,70 @@
-# Project Title
+<h1 align="center">👋 Hey, I'm Justin</h1>
 
-A short and clear description of what your project does.
+<p align="center">
+  🚀 Developer | 💻 Minecraft Plugin Creator | 🤖 Discord Bot Builder  
+</p>
 
----
-
-## 🚀 Features
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
----
-
-## 📸 Screenshots
-
-<!-- Uncomment below if you have screenshots -->
-<!-- 
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
--->
+<p align="center">
+  <a href="https://github.com/JustinTheTrucker">
+    <img src="https://img.shields.io/github/followers/JustinTHeTrucker?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://discord.com/users/267305778619088896">
+    <img src="https://img.shields.io/badge/JustinTheTrucker%231234-7289da?logo=discord" alt="Discord">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-- Language/Framework: `e.g., Java, JavaScript, Python`
-- Libraries: `e.g., Spigot API, Express.js, React`
-- Tools: `e.g., Git, Docker, MongoDB`
+- 🔭 I’m currently working on **Minecraft server development** and custom **Discord bots**
+- 🌱 I’m expanding my skills in AI, Unity, and game design
+- 💼 I build plugins, bots, and tools with clean, scalable architecture
+- 🎮 Passionate about creating fun, grindy, and balanced multiplayer experiences
 
 ---
 
-## 🧑‍💻 Getting Started
+## ⚒️ Tech Stack
 
-### Prerequisites
-- Example: `Java 17`, `Node.js v18+`, etc.
+- **Languages:** Java, JavaScript, TypeScript, Python, C#
+- **Tools:** Spigot API, Discord.js, Node.js, Unity, Git
+- **Other:** MySQL, MongoDB, Docker, GitHub Actions
 
-### Installation
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name
+## 📌 Pinned Projects
 
-# Navigate into the project folder
-cd your-repo-name
+Check out some of my favorite or most active work below 👇  
+➡️ *(Pin repos from your GitHub profile)*
 
-# Run the app
-your-command-here
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustinTheTrucker&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JustinTheTrucker&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+## 🗂️ Projects I'm Working On
+
+- 🟢 **Chunk Survival** — High-stakes skyblock-like PvP game mode
+- 🟡 **Venomity** — A growing development team and tools brand
+- 🔵 **Simply Survival** — A grindy but chill SMP
+- 🟣 **Flappy Miner** — A mobile Unity game in development
+
+---
+
+## 📫 Contact
+
+- GitHub: [@JustinTheTrucker](https://github.com/JustinTheTrucker)
+- Discord: `JustinTheTrucker`
+
+---
+
+<p align="center">✨ Thanks for visiting! ✨</p>
